@@ -6,4 +6,5 @@ they can learn new information in the learning part of the application.
 #TECHNICAL PARTS
 
 You need to open the application in Android studio (java).
-Application uses Firebase to store its data.
+
+The application uses Firebase to store its data.
